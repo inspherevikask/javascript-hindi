@@ -5,7 +5,7 @@ var accountCity ="Jaipur"
 Prefer not to use var
 because of issue in block scope and functional scope
 */
-
+  
 
 accountPass ="Vikas12345"
 accountCity ="Delhi"
